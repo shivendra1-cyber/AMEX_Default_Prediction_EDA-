@@ -1,5 +1,7 @@
 # American Express Credit Default Prediction Project
-![Uploading image.png…]()
+
+<img width="671" alt="image" src="https://github.com/shivendra1-cyber/AMEX_Default_Prediction_EDA-/assets/68283342/4d69c0e5-22f1-4bef-8a77-fe035ca51545">
+
 
 
 ## Overview
